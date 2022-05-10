@@ -1,10 +1,10 @@
 Hello there 👋 My name is Maycon Batista
 
-===============================
+##
 
 I'm a programming student. (Estudante de programação)
 
------------------------------------------------
+##
 
 Currently acquiring knowledge in Full Stack so that in the near future I can work in the area of programming. (Atualmente adquirindo conhecimento em Full Stack para que em um futuro próximo possa trabalhar na área de programação.)
 
