@@ -2,12 +2,12 @@ Hello there 👋 My name is Maycon Batista
 
 ##
 
-I'm a programming student. 
+I'm a programming student. <br>
 (Eu sou um estudante de programação)
 
 ##
 
-Currently acquiring knowledge in Full Stack so that in the near future I can work in the area of programming. 
+Currently acquiring knowledge in Full Stack so that in the near future I can work in the area of programming. <br> 
 (Atualmente adquirindo conhecimento em Full Stack para que em um futuro próximo possa trabalhar na área de programação.)
 
 * 🌍  I'm based in Curitiba-PR, Brazil.
