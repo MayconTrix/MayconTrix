@@ -28,5 +28,3 @@ Currently acquiring knowledge in Full Stack so that in the near future I can wor
 </p>
 
 ##
-
-![Snake animation](https://github.com/MayconTrix/MayconTrix/blob/output/github-contribution-grid-snake.svg)
