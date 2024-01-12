@@ -1,18 +1,16 @@
-Hello there 👋 My name is Maycon Batista
+Hello there 👋 My name is Maycon Batista!
 
 ##
 
-I'm a Front-end Developer and Designer UI/UX . <br>
+I'm a Front-end Developer and Designer UI/UX. <br>
 (Sou desenvolvedor Front-end e Designer UI/UX.)
 
 ##
 
-Currently acquiring knowledge in Front-End so that in the near future I can work in the area of programming. <br> 
-(Atualmente adquirindo conhecimento em Front-End para que em um futuro próximo possa trabalhar na área de programação.)
-
-* 🌍  I'm based in Curitiba-PR, Brazil.
-* 🧠  I'm learning ReactJS/TS.
-* 🤝  I’m looking for help with Open Source.  
+* 🌍 I'm based in Curitiba-PR, Brazil.
+* 🔭 I’m currently working with the [NoxCode](https://www.noxcode.com.br/) and [RembrandTech](https://www.linkedin.com/company/rembrandtech).
+* 📝 Here you can see [My Portilfólio](https://mbportfolio.vercel.app/).  
+* 🤝 I’m looking for help with Open Source.  
 * 🎸 Fun fact: I had a band when I was younger, if you are curious this is it:
 <a href="[https://www.youtube.com/user/a](https://www.youtube.com/watch?v=q1dRS_7N6lw)" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
