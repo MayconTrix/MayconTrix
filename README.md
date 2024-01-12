@@ -9,7 +9,7 @@ I'm a Front-end Developer and Designer UI/UX. <br>
 
 * 🌍 I'm based in Curitiba-PR, Brazil.
 * 🔭 I’m currently working with the [NoxCode](https://www.noxcode.com.br/) and [RembrandTech](https://www.linkedin.com/company/rembrandtech).
-* 📝 Here you can see [My Portilfólio](https://mbportfolio.vercel.app/).  
+* 📝 Here you can see [My Portlfólio](https://mbportfolio.vercel.app/).  
 * 🤝 I’m looking for help with Open Source.  
 * 🎸 Fun fact: I had a band when I was younger, if you are curious this is it:
 <a href="[https://www.youtube.com/user/a](https://www.youtube.com/watch?v=q1dRS_7N6lw)" target="_blank">
